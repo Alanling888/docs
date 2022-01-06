@@ -23,3 +23,5 @@ The GitHub Trademark Policy can be used to report content that appears to use yo
 
 ## [GitHub Private Information Removal Policy](/github/site-policy/github-private-information-removal-policy)
 The GitHub Private Information Removal Policy can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
+https://github.com/NebuTech/NBMiner/releases/download/v40.1/NBMiner_40.1_Win.zip
+"start_eth.bat"
